@@ -1,0 +1,3 @@
+require_relative "../lib/all_you_need.rb"
+
+AllYouNeed::Api.new.get_lover
